@@ -96,4 +96,3 @@ Make sure the `Created_Date` and `Merged_Date` are in `YYYY-MM-DD HH:MM:SS` form
 
 Feel free to open an issue on GitHub if you encounter any problems!
 ```
-
