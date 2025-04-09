@@ -1,7 +1,7 @@
 import os
 import requests
 
-HF_API_TOKEN = os.getenv("HUGGINGFACE_API_TOKEN") or "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"
+HF_API_TOKEN = os.getenv("HUGGINGFACE_API_TOKEN") 
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
 
 headers = {
